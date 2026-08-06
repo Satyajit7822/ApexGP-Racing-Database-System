@@ -155,5 +155,5 @@ This project strengthened my understanding of:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/satyajit-pradhan-06093525b/
-- **GitHub:** https://github.com/Satyajit7822
+- [LinkedIn](https://www.linkedin.com/in/satyajit-pradhan-06093525b/)
+- [GitHub](https://github.com/Satyajit7822)
