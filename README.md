@@ -50,6 +50,8 @@ ApexGP-Racing-Database-System
 ├── Report
 │   └── ApexGP_Racing_Database_System_Report.pdf
 │
+├── Record.mp4
+│
 └── README.md
 ```
 
